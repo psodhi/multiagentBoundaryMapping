@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "glow_planner")
+set(glow_planner_MAINTAINER "sunny <sunny@todo.todo>")
+set(glow_planner_DEPRECATED "")
+set(glow_planner_VERSION "0.0.0")
+set(glow_planner_BUILD_DEPENDS "cv_bridge" "image_transport" "openCV" "roscpp" "sensor_msgs" "std_msgs" "std_srvs" "turtlesim")
+set(glow_planner_RUN_DEPENDS "cv_bridge" "image_transport" "openCV" "roscpp" "sensor_msgs" "std_msgs" "std_srvs" "turtlesim")
+set(glow_planner_BUILDTOOL_DEPENDS "catkin")

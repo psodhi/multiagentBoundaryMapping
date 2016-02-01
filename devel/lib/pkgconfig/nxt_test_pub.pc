@@ -1,0 +1,8 @@
+prefix=/home/paloma/catkin_ws/devel
+
+Name: nxt_test_pub
+Description: Description of nxt_test_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/paloma/catkin_ws/devel/lib 
+Requires: 

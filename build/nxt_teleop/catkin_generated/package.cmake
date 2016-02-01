@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "nxt_teleop")
+set(nxt_teleop_MAINTAINER "sunny <sunny@todo.todo>")
+set(nxt_teleop_DEPRECATED "")
+set(nxt_teleop_VERSION "0.0.0")
+set(nxt_teleop_BUILD_DEPENDS "rospy" "std_msgs")
+set(nxt_teleop_RUN_DEPENDS "rospy" "std_msgs")
+set(nxt_teleop_BUILDTOOL_DEPENDS "catkin")

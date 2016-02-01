@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "glow_localisation")
+set(glow_localisation_MAINTAINER "sunny <sunny@todo.todo>")
+set(glow_localisation_DEPRECATED "")
+set(glow_localisation_VERSION "0.0.0")
+set(glow_localisation_BUILD_DEPENDS "cv_bridge" "image_transport" "openCV" "roscpp" "sensor_msgs" "std_msgs" "std_srvs" "turtlesim")
+set(glow_localisation_RUN_DEPENDS "cv_bridge" "image_transport" "openCV" "roscpp" "sensor_msgs" "std_msgs" "std_srvs" "turtlesim")
+set(glow_localisation_BUILDTOOL_DEPENDS "catkin")

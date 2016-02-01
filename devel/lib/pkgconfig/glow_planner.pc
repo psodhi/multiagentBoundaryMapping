@@ -1,0 +1,8 @@
+prefix=/home/paloma/catkin_ws/devel
+
+Name: glow_planner
+Description: Description of glow_planner
+Version: 0.0.0
+Cflags: -I/home/paloma/catkin_ws/src/glow_planner/include
+Libs: -L/home/paloma/catkin_ws/devel/lib 
+Requires: 

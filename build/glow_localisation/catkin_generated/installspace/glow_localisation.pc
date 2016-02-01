@@ -1,0 +1,8 @@
+prefix=/home/paloma/catkin_ws/install
+
+Name: glow_localisation
+Description: Description of glow_localisation
+Version: 0.0.0
+Cflags: -I/home/paloma/catkin_ws/install/include
+Libs: -L/home/paloma/catkin_ws/install/lib 
+Requires: 

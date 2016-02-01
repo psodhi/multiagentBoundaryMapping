@@ -1,0 +1,13 @@
+Priority List
+
+1. Modify Translate Rotate Magnitude Commands : Pad with 0s so as to get 3 digits in magnitude value
+
+2. Check Inner-Loop Controller Tracking
+
+3. Check Sensor/GSO/Outer-Loop Algo
+
+4. Try to make Zigbeee communication faster - possibly API?
+
+
+
+

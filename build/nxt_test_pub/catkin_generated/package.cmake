@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "nxt_test_pub")
+set(nxt_test_pub_MAINTAINER "sunny <sunny@todo.todo>")
+set(nxt_test_pub_DEPRECATED "")
+set(nxt_test_pub_VERSION "0.0.0")
+set(nxt_test_pub_BUILD_DEPENDS "rospy" "std_msgs")
+set(nxt_test_pub_RUN_DEPENDS "rospy" "std_msgs")
+set(nxt_test_pub_BUILDTOOL_DEPENDS "catkin")
